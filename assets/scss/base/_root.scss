@@ -1,0 +1,11 @@
+:root {
+    --primary: #{$primary};
+    --primary-dark: #{$primary-dark};
+    --secondary: #{$secondary};
+    --secondary-dark: #{$secondary-dark};
+    --bg-color: #{$gray-100};
+    --bg-color-dark: #{$gray-900};
+    --font-color-light: #{$white};
+    --font-color-dark: #{$gray-900};
+    --navbar-color: #{$white};
+}
